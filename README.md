@@ -1,2 +1,2 @@
-# Hello World
- Pequenos Projetos de aprendizado
+# Hello, World!
+ Pequenos Projetos de aprendizado.
